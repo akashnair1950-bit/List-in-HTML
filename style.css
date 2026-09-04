@@ -1,0 +1,49 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	color:white;
+}
+.heading{
+	font-size:50px;
+	margin:0px;
+	padding-left:40%;
+	background-color:gray;
+}
+.float{
+	float:left;
+}
+.box1{
+	height:560px;
+	width:400px;
+	border-radius:20px;
+	border:1px solid black;
+}
+.heading1{
+	font-size:38px;
+	padding-left:80px;
+}
+.listype{
+	height:450px;
+	background-color:white;
+}
+.red{
+	color:red;
+}
+.list{
+	font-size:22px;
+	padding:19px 10px;
+}
+.color1{
+	margin:50px 0px 0px 150px;
+	background-color:red;
+}
+.color2{
+	margin:50px 0px 0px 10px;
+	background-color:yellow;
+}
+.color3{
+	margin:50px 0px 0px 10px;
+	background-color:blue;
+}
